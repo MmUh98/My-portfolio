@@ -36,7 +36,7 @@ const items = [
     period: "2016 – 2018",
     school: "Military College Jhelum",
     degree: "Matriculation · Grade A",
-    notes: "2nd position in 9th-grade annual exams.",
+    notes: "",
   },
 ];
 

@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PageShell } from "@/components/PageShell";
 import { Reveal } from "@/components/Reveal";
-import { Mail, Phone, MapPin, Linkedin, Download, Send } from "lucide-react";
+import { Mail, Phone, MapPin, Linkedin, Github, Download, Send } from "lucide-react";
 import { useState } from "react";
 
 export const Route = createFileRoute("/contact")({
@@ -27,6 +27,12 @@ const channels = [
     label: "LinkedIn",
     value: "linkedin.com/in/mansoor",
     href: "https://www.linkedin.com/",
+  },
+  {
+    icon: Github,
+    label: "GitHub",
+    value: "github.com/mansoor",
+    href: "https://github.com/",
   },
   { icon: MapPin, label: "Location", value: "Islamabad, Pakistan", href: "#" },
 ];
