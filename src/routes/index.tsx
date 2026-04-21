@@ -111,7 +111,7 @@ function HomePage() {
             },
             {
               k: "Currently",
-              v: "BS AI @ Air University · Open to internships",
+              v: "BS AI @ Air University · Open to work / internships",
               tag: "NOW",
             },
           ].map((item, i) => (

@@ -41,7 +41,7 @@ const groups = [
   {
     icon: Cloud,
     title: "Cloud",
-    items: ["AWS", "Azure (OpenAI)", "Cloudflare"],
+    items: ["AWS", "Azure Foundry"],
   },
   {
     icon: Wrench,

@@ -28,20 +28,6 @@ const projects = [
     links: [{ label: "Case study", href: "#", icon: ExternalLink }],
   },
   {
-    title: "LLM Agent Playground",
-    description:
-      "Sandbox for prototyping multi-tool LLM agents with persistent memory, function calling, and human-in-the-loop checkpoints.",
-    tags: ["LangChain", "Python", "OpenAI"],
-    links: [{ label: "Code", href: "#", icon: Github }],
-  },
-  {
-    title: "FastAPI ML Microservice",
-    description:
-      "Production-ready template for serving ML models behind a typed FastAPI gateway with auth, rate limiting, and Docker.",
-    tags: ["FastAPI", "Docker", "Pydantic"],
-    links: [{ label: "Code", href: "#", icon: Github }],
-  },
-  {
     title: "Portfolio v1",
     description:
       "This site — modern dark/neon portfolio built with TanStack Start, React 19, Tailwind v4, and lots of glassmorphism.",
