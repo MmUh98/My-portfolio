@@ -34,7 +34,11 @@ function HomePage() {
               <div className="relative">
                 <div className="absolute -inset-1 rounded-full bg-gradient-neon blur-lg opacity-70 animate-float" />
                 <div className="relative grid h-28 w-28 place-items-center rounded-full bg-background ring-2 ring-[oklch(0.7_0.25_300/0.6)]">
-                  <span className="font-mono text-3xl font-bold text-gradient">MM</span>
+                  <img
+                    src="/mypic.png"
+                    alt="Muhammad Mansoor ul Haq"
+                    className="h-full w-full rounded-full object-cover"
+                  />
                 </div>
               </div>
             </div>
@@ -111,7 +115,7 @@ function HomePage() {
             },
             {
               k: "Currently",
-              v: "BS AI @ Air University · Open to work / internships",
+              v: "BS AI @ Air University · Open to work / Collaborations",
               tag: "NOW",
             },
           ].map((item, i) => (

@@ -23,15 +23,15 @@ const projects = [
     featured: true,
     title: "NL-to-SQL Assistant",
     description:
-      "Conversational analytics tool turning plain-English questions into SQL queries over national statistics datasets. Built with Azure GPT-4.1, LangGraph agent flows, and LangSmith tracing — wrapped in a FastAPI backend and Streamlit frontend.",
-    tags: ["Azure GPT-4.1", "LangGraph", "LangSmith", "FastAPI", "Streamlit"],
-    links: [{ label: "Case study", href: "#", icon: ExternalLink }],
+      "Conversational analytics tool turning plain-English questions into SQL queries over national statistics datasets. Built with Azure Foundry, LangGraph agent flows, and LangSmith tracing.",
+    tags: ["Azure Foundry", "LangGraph", "LangSmith", "Node.js", "TypeScript", "Next.js"],
+    links: [{ label: "Git Repository", href: "https://github.com/MmUh98/nl2sql-agent.git", icon: ExternalLink }],
   },
   {
     title: "Portfolio v1",
     description:
       "This site — modern dark/neon portfolio built with TanStack Start, React 19, Tailwind v4, and lots of glassmorphism.",
-    tags: ["TanStack", "React", "Tailwind"],
+    tags: ["Lovable", "TanStack", "React", "Tailwind"],
     links: [{ label: "Live", href: "/", icon: ExternalLink }],
   },
 ];

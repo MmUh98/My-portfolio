@@ -30,13 +30,13 @@ const items = [
     period: "2018 – 2020",
     school: "Military College Jhelum",
     degree: "Pre-Engineering · Grade A",
-    notes: "House Appointee · Basket House team representative.",
+    
   },
   {
     period: "2016 – 2018",
     school: "Military College Jhelum",
     degree: "Matriculation · Grade A",
-    notes: "",
+    notes: "House Appointee",
   },
 ];
 

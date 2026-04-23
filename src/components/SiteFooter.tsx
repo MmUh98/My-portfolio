@@ -5,7 +5,7 @@ export function SiteFooter() {
     <footer className="border-t border-white/5 bg-background/60 backdrop-blur">
       <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-5 py-8 md:flex-row">
         <p className="font-mono text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Muhammad Mansoor ul Haq. Built with TanStack + Lovable.
+          © {new Date().getFullYear()} Muhammad Mansoor ul Haq.
         </p>
         <div className="flex items-center gap-3">
           <a

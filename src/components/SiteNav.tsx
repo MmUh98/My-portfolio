@@ -20,11 +20,8 @@ export function SiteNav() {
     <header className="sticky top-0 z-50 w-full border-b border-white/5 bg-background/70 backdrop-blur-xl">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3">
         <Link to="/" className="group flex items-center gap-2">
-          <span className="grid h-9 w-9 place-items-center rounded-lg bg-gradient-neon text-sm font-bold text-primary-foreground glow-purple">
-            MM
-          </span>
-          <span className="font-mono text-sm tracking-wider text-foreground/80 group-hover:text-foreground">
-            mansoor<span className="text-gradient">.dev</span>
+          <span className="grid h-9 w-23 place-items-center rounded-lg bg-gradient-neon text-sm font-bold text-primary-foreground glow-purple">
+            Mansoor.dev
           </span>
         </Link>
 

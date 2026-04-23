@@ -28,7 +28,7 @@ const certs = [
   { title: "ChatGPT for Market Research", issuer: "Coursera" },
   { title: "Deloitte Tech Job Simulation", issuer: "Forage" },
   { title: "AWS PartyRock — Building GenAI Apps", issuer: "AWS" },
-  { title: "Introduction to FastAPI", issuer: "Online Course" },
+  { title: "Introduction to FastAPI", issuer: "DataCamp" },
 ];
 
 function CertsPage() {

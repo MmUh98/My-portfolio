@@ -20,21 +20,21 @@ export const Route = createFileRoute("/contact")({
 });
 
 const channels = [
-  { icon: Mail, label: "Email", value: "mansoor@example.com", href: "mailto:mansoor@example.com" },
+  { icon: Mail, label: "Email", value: "muhammadmunsoorulhaq@gmail.com", href: "mailto:muhammadmunsoorulhaq@gmail.com" },
   { icon: Phone, label: "Phone", value: "+92 323 0547226", href: "tel:+923230547226" },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/mansoor",
-    href: "https://www.linkedin.com/",
+    value: "LinkedIn",
+    href: "www.linkedin.com/in/muhammad-mansoor-ul-haq-aa7735295",
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "github.com/mansoor",
-    href: "https://github.com/",
+    value: "GitHub",
+    href: "https://github.com/MmUh98",
   },
-  { icon: MapPin, label: "Location", value: "Islamabad, Pakistan", href: "#" },
+  { icon: MapPin, label: "Location", value: "Islamabad, Pakistan", href: "https://maps.app.goo.gl/b9jxe2JJyMvh1yK97" },
 ];
 
 function ContactPage() {

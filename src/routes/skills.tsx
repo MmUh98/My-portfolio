@@ -31,17 +31,17 @@ const groups = [
   {
     icon: Brain,
     title: "AI / ML",
-    items: ["LLMs", "Deep Learning", "LangChain", "LangGraph", "LangSmith", "Prompt Engineering"],
+    items: ["Azure Foundry", "LLMs", "Deep Learning", "LangChain", "LangGraph", "LangSmith", "Prompt Engineering",],
   },
   {
     icon: Server,
     title: "Backend",
-    items: ["FastAPI", "Streamlit", "Node.js", "Next.js", "REST APIs"],
+    items: ["Django", "FastAPI", "Streamlit", "Node.js", "Next.js", "REST APIs"],
   },
   {
     icon: Cloud,
     title: "Cloud",
-    items: ["AWS", "Azure Foundry"],
+    items: ["AWS", "Azure "],
   },
   {
     icon: Wrench,

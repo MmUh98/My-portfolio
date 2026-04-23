@@ -27,11 +27,11 @@ const jobs = [
     company: "Pakistan Bureau of Statistics",
     period: "Jul – Aug 2025 · Islamabad",
     bullets: [
-      "Built a Natural Language → SQL Assistant on top of Azure GPT-4.1 to query official statistics datasets.",
-      "Designed multi-step agent workflows with LangGraph and observability via LangSmith.",
-      "Delivered a FastAPI backend + Streamlit demo enabling non-technical analysts to query data in plain English.",
+      "Worked on developing a Natural Language to SQL Assistant using Azure GPT-4.1, LangGraph, and LangSmith to enable plain English queries on SQL Server databases.",
+      "Built and optimized the backend with Node.js, TypeScript, and Next.js, including features like CSV/Excel export, HTML table rendering, and basic visualizations. ",
+      "Gained hands-on experience in Generative AI workflows, prompt engineering, and database integration.",
     ],
-    tags: ["Python", "Azure GPT-4.1", "LangGraph", "LangSmith", "FastAPI"],
+    tags: ["Python", "Azure Foundry", "LangGraph", "LangSmith", "React", "TypeScript", "Next.js"],
   },
   {
     role: "Web Developer (Intern)",
