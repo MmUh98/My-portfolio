@@ -28,6 +28,14 @@ const projects = [
     links: [{ label: "Git Repository", href: "https://github.com/MmUh98/nl2sql-agent.git", icon: ExternalLink }],
   },
   {
+    featured: true,
+    title: "3D Vision Transformer (UNETR)",
+    description:
+      "recently developed a memory-optimized 3D Vision Transformer (UNETR) pipeline to segment pediatric brain tumors using a massive 32.7GB MRI dataset, achieving high classification accuracy using handcrafted radiomics (GLCM/SVM).",
+    tags: ["3D Vision Transformer", "UNETR","GLCM", "SVM", "Python", "PyTorch"],
+    links: [{ label: "Git Repository", href: "https://github.com/MmUh98/BraTS-PEDs-pediatric-brain-tumor-MRI.git", icon: ExternalLink }],
+  },
+  {
     title: "Portfolio v1",
     description:
       "This site — modern dark/neon portfolio built with TanStack Start, React 19, Tailwind v4, and lots of glassmorphism.",
